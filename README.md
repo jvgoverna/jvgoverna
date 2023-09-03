@@ -37,9 +37,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jvgoverna/jvgoverna/output/snake.svg" alt="Snake animation" />
-
-###
